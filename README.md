@@ -1,5 +1,3 @@
-# .github
-
 # Warden
 
 <div align="center">
