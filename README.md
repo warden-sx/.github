@@ -10,7 +10,7 @@
 **Communication Without Memory**  
 *Messages pass through. Nothing stays. Not by policy—by design.*
 
-[Website](https://warden.sx) · [Twitter](https://twitter.com/warden_sx)
+[Website](https://warden.sx)
 
 </div>
 
