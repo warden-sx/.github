@@ -54,8 +54,8 @@ Warden is a privacy-first communication protocol built on a revolutionary princi
 
 ### Phase 2: Messenger Protocol (In Development)
 - Pure P2P where possible
-- Ephemeral relay architecture
-- Post-quantum cryptography ready
+- Messages pass through servers that immediately forget everything. No logs, no storage, nothing to seize.
+- Future-proof encryption that even tomorrow's supercomputers can't break.
 
 ### Phase 3: VPN Service (Planned)
 - RAM-only logging VPN
