@@ -1,10 +1,10 @@
 # .github
 
-# Warden Protocol
+# Warden
 
 <div align="center">
 
-![Warden Shield](https://img.shields.io/badge/Warden-Protocol-blue?style=for-the-badge&logo=shield&logoColor=white)
+![Warden Shield](https://img.shields.io/badge/Warden-blue?style=for-the-badge&logo=shield&logoColor=white)
 ![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg?style=for-the-badge)
 ![Status: Active Development](https://img.shields.io/badge/Status-Active_Development-green?style=for-the-badge)
 ![Privacy Focused](https://img.shields.io/badge/Privacy-Focused-important?style=for-the-badge)
